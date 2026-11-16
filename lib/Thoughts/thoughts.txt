@@ -1,0 +1,3 @@
+I WAMT TO DISCRIBE HOW I UNDERSTAND SOME CONCEPTS OF DART. WHATSEVER NEW THING i LEARN IS GONNA BE DOCUMENTED IN THIS FILE.
+it will help me understand my gaps in tools and knowledge. Also I wanna document the relatonships between the diffent stages
+ in a bloc feature first architecture

@@ -1,0 +1,26 @@
+lib/
+  core/
+    storage/
+      auth_box.dart             
+      users_box.dart             
+    utils/
+      password_hasher.dart       
+      validators.dart            
+  features/
+    auth/
+      domain/
+        auth_repository.dart       
+        auth_failure.dart          
+      data/
+        auth_repository_impl.dart  
+      presentation/
+        bloc/
+          auth_event.dart           
+          auth_state.dart           
+          auth_bloc.dart            
+        pages/
+          login_page.dart         
+          register_page.dart        
+          home_page.dart            
+  app.dart                          
+  main.dart                         
